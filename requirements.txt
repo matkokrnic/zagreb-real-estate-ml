@@ -1,0 +1,12 @@
+selenium
+beautifulsoup4
+tqdm
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+optuna
+matplotlib
+seaborn

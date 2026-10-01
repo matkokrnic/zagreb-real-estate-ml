@@ -1,0 +1,25 @@
+# Scraped data — not redistributable (see README: Data availability)
+*.csv
+*.json
+!classification_summary_v2.json
+njuskalo_*
+apartments_*
+
+# Model binaries and checkpoints
+*.pkl
+catboost_info/
+checkpoint_*.json
+scraper_checkpoint.json
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS noise
+.DS_Store
+Thumbs.db
